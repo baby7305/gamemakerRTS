@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "27d004a8-2e4d-44ee-8712-73b513490bdd",
+            "Value": {
+                "id": "550d2c5b-f077-4142-b0f8-b764badef18a",
+                "resourcePath": "sprites\\spr_mouse\\spr_mouse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2b17a7f8-6e2c-4801-b871-ed667c837b33",
             "Value": {
                 "id": "d8ea6ff3-f858-4d46-9782-2917d417717e",
@@ -91,6 +99,14 @@
             "Value": {
                 "id": "a8b1300d-1e06-4e37-b49f-bd9118edde0d",
                 "resourcePath": "scripts\\scr_ship_move\\scr_ship_move.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "67d9e283-4d71-4481-adec-6bc51be2a882",
+            "Value": {
+                "id": "9fb5514f-b2f5-4486-b25a-4683be7f1d5d",
+                "resourcePath": "scripts\\scr_toggle_select\\scr_toggle_select.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "e4adbfa3-fce5-483c-abb3-f426869c705e",
+            "Value": {
+                "id": "e354e691-5baf-4406-bab4-e535bc0eaacd",
+                "resourcePath": "objects\\obj_mouse\\obj_mouse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4f92939-dfbb-4649-88ff-ef0a6d9d7844",
             "Value": {
                 "id": "51e8aa2b-f23f-429b-ae74-cc379486db18",
@@ -296,7 +320,9 @@
         }
     ],
     "script_order": [
-        
+        "a790d1c6-6ebf-4309-b5b8-e8d4c411a770",
+        "fb0cbad5-78c7-4a12-ad4d-7b75411c8307",
+        "63ce30b2-8f0a-438c-bff4-695134fae9f4"
     ],
     "tutorial": ""
 }
