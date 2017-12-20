@@ -5,7 +5,7 @@
 
 target = -1;
 //foe = -1;
-selected = true;
+selected = false;
 state = "idle";
 spd = 4;
 acc = .5;
