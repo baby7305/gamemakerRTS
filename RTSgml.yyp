@@ -31,10 +31,26 @@
     },
     "resources": [
         {
+            "Key": "03d2c8d0-481d-4e49-a1eb-107b6876e07d",
+            "Value": {
+                "id": "1e7fcb06-61a8-4bdd-9cb7-776b6d95c3c4",
+                "resourcePath": "objects\\obj_enemy_fighter\\obj_enemy_fighter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "082e8cf6-050a-4b81-b8e0-c69ca2b0b8a4",
             "Value": {
                 "id": "c39911ba-a214-40e3-9551-b45501a13368",
                 "resourcePath": "scripts\\scr_move_view\\scr_move_view.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "09a0058a-3ef1-4abf-bbf9-404650e6bd62",
+            "Value": {
+                "id": "b064ffa6-7fc9-4f3d-b46c-d5d4b610c787",
+                "resourcePath": "scripts\\scr_enemy_ship_idle\\scr_enemy_ship_idle.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "6974dc18-bec5-43c5-a6ce-5087affd5284",
+            "Value": {
+                "id": "c70c5883-513c-4a0b-aeee-ddf10f555eec",
+                "resourcePath": "scripts\\scr_enemy_ship_attack\\scr_enemy_ship_attack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "71ac1643-e265-4a8c-96b4-ebdb84e8965a",
             "Value": {
                 "id": "b3a24d2e-f72a-4b3b-bcf9-3e6621a27aea",
@@ -140,6 +164,14 @@
                 "id": "51e66d42-9d00-4939-a1e2-5ed987ee6cac",
                 "resourcePath": "views\\7dd9f3f3-3340-4dd8-85fe-331dccca1572.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8aeeec72-3b92-43bd-9070-e6ff65bbd324",
+            "Value": {
+                "id": "43159d4c-db9b-463b-a28e-97d9345cf441",
+                "resourcePath": "objects\\obj_enemy_ship\\obj_enemy_ship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +260,14 @@
                 "id": "67a8e650-42d9-4721-a1f0-99b6024b035c",
                 "resourcePath": "views\\b28f0e7f-8bf6-4da9-acd6-2006605d1995.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5be16fb-0238-43cf-9df5-efcd6e51de62",
+            "Value": {
+                "id": "c68745f0-8392-4cd1-bbcc-21af3456eb0a",
+                "resourcePath": "scripts\\scr_enemy_ship_chase\\scr_enemy_ship_chase.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -340,7 +380,10 @@
         "fb0cbad5-78c7-4a12-ad4d-7b75411c8307",
         "63ce30b2-8f0a-438c-bff4-695134fae9f4",
         "67d9e283-4d71-4481-adec-6bc51be2a882",
-        "082e8cf6-050a-4b81-b8e0-c69ca2b0b8a4"
+        "082e8cf6-050a-4b81-b8e0-c69ca2b0b8a4",
+        "6974dc18-bec5-43c5-a6ce-5087affd5284",
+        "b5be16fb-0238-43cf-9df5-efcd6e51de62",
+        "09a0058a-3ef1-4abf-bbf9-404650e6bd62"
     ],
     "tutorial": ""
 }

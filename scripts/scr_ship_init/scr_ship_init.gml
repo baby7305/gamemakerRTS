@@ -4,7 +4,7 @@
 /// @param weapon
 
 target = -1;
-//foe = -1;
+foe = -1;
 selected = false;
 state = "idle";
 spd = 4;
