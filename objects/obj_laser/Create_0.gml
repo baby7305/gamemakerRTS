@@ -1,3 +1,3 @@
-/// @description Initialize the laser
+/// @description Initialize the laser  Move
 
 speed = 10;
