@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1a5524a0-351f-42a6-b370-25f574d64735",
+            "Value": {
+                "id": "fef8f02f-d4b6-46d6-a2eb-0c2d8135afbd",
+                "resourcePath": "sprites\\spr_laser\\spr_laser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d43db92-9261-401d-b185-45f755d8fbc1",
             "Value": {
                 "id": "e58dcda6-95fe-45b3-985b-4d7d5edb8f22",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "77a58b38-a607-4c70-b0bf-27a50f1f06f9",
+            "Value": {
+                "id": "961fbba0-c1bd-41c7-8147-9868c8d1a869",
+                "resourcePath": "objects\\obj_ps\\obj_ps.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7dd9f3f3-3340-4dd8-85fe-331dccca1572",
             "Value": {
                 "id": "51e66d42-9d00-4939-a1e2-5ed987ee6cac",
@@ -215,6 +231,14 @@
             }
         },
         {
+            "Key": "a20fc541-bc42-4e6c-9ea5-3cb88019438b",
+            "Value": {
+                "id": "4afb4868-ee4d-4505-97dd-23deb0c05f9b",
+                "resourcePath": "scripts\\scr_part_laser_init\\scr_part_laser_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a3f69cfe-f610-419c-b549-68644776cb13",
             "Value": {
                 "id": "9f204a2d-6dbf-4ba7-8603-deb1da11d5cd",
@@ -268,6 +292,14 @@
                 "id": "c68745f0-8392-4cd1-bbcc-21af3456eb0a",
                 "resourcePath": "scripts\\scr_enemy_ship_chase\\scr_enemy_ship_chase.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c29ad0a7-ed72-41f6-a2b7-a1d47e85917e",
+            "Value": {
+                "id": "d00d7662-dd6f-4fa8-ae22-dfa4afe04291",
+                "resourcePath": "objects\\obj_laser\\obj_laser.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,6 +1,6 @@
 /// @description  Initialize the ship
 
-scr_ship_init();
+scr_ship_init(-1);
 
 
 
