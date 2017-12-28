@@ -10,8 +10,7 @@ state = "idle";
 spd = 4;
 acc = .5;
 
-//hp = argument0;
-//weapon = argument1;
+hp = argument0;
+weapon = argument1;
 
-weapon = argument0;
 

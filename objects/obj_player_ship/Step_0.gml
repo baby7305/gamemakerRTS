@@ -9,6 +9,8 @@ if(instance_exists(obj_enemy_ship)){
 
 if (state == "move") {
     scr_ship_move();
+} else if (state == "attack") {
+    scr_enemy_ship_attack();
 } else if (state == "idle") {
     scr_ship_idle();
 }

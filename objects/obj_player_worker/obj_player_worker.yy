@@ -2,7 +2,7 @@
     "id": "95ee8c62-e295-4a26-84cb-b9cc05304158",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_worker",
+    "name": "obj_player_worker",
     "eventList": [
         
     ],

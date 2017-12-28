@@ -1,2 +1,2 @@
 /// @description Initialize the ship
-scr_ship_init(obj_laser);
+scr_ship_init(7,obj_laser);
