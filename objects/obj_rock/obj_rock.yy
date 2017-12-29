@@ -1,23 +1,23 @@
 {
-    "id": "df60ca7c-54a7-4705-a734-26cba57fdbae",
+    "id": "a9c584d8-0502-42e8-aa57-ed3d8e13225a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player_fighter",
+    "name": "obj_rock",
     "eventList": [
         {
-            "id": "c62b4f0d-eee4-45a0-b224-ccf988f9c2db",
+            "id": "4ab6499e-8018-436e-8ec8-ead450b7bd92",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "df60ca7c-54a7-4705-a734-26cba57fdbae"
+            "eventtype": 3,
+            "m_owner": "a9c584d8-0502-42e8-aa57-ed3d8e13225a"
         }
     ],
-    "maskSpriteId": "e4f92939-dfbb-4649-88ff-ef0a6d9d7844",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "71ac1643-e265-4a8c-96b4-ebdb84e8965a",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5ce5c77-bc12-486a-8695-65dda785e2c4",
+    "spriteId": "f6cd5512-ea8a-4c3c-9471-10d9217eaa15",
     "visible": true
 }
