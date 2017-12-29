@@ -3,7 +3,7 @@
 if (selected) {
 
     // Make sure there isn't already a target in the room
-    if (target != -1 && instance_exists(target) ) {
+    if (target != -1 && instance_exists(target) && target != obj_station && target != obj_rock) {
         with (target) instance_destroy();
     }
     
