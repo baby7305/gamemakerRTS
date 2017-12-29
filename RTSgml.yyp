@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0a3f3802-8e4f-4859-b97f-132014b3beae",
+            "Value": {
+                "id": "9a3d9395-843d-4c5d-9aa4-5f479d2193d3",
+                "resourcePath": "sprites\\spr_worker_button\\spr_worker_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0aca9630-4048-4fc4-a8b1-04fb8980f621",
             "Value": {
                 "id": "9905037b-7e0e-41ea-aeb9-88362d9486bb",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "45d6e0b7-954d-4efb-b276-711fab06252a",
+            "Value": {
+                "id": "4db28280-fbe8-4e9a-9e4e-9aaf49471332",
+                "resourcePath": "objects\\obj_worker_button\\obj_worker_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "55d827e2-cd88-4db4-bd58-e809b96d9292",
             "Value": {
                 "id": "623d7adf-3889-4cbc-8b0e-93877f96c3d6",
@@ -212,6 +228,14 @@
                 "id": "c70c5883-513c-4a0b-aeee-ddf10f555eec",
                 "resourcePath": "scripts\\scr_enemy_ship_attack\\scr_enemy_ship_attack.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6ccd2ac0-327b-4070-9120-6c102cf0a5ba",
+            "Value": {
+                "id": "4a60e51b-1c56-4d8e-a496-9d8aa760f2bf",
+                "resourcePath": "objects\\obj_fighter_button\\obj_fighter_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,11 +335,27 @@
             }
         },
         {
+            "Key": "9c7b10eb-389f-4633-a4c2-7aaadfdb1773",
+            "Value": {
+                "id": "2025c6e8-182e-4094-9cfb-a0352dd0b779",
+                "resourcePath": "sprites\\spr_fighter_button\\spr_fighter_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a20fc541-bc42-4e6c-9ea5-3cb88019438b",
             "Value": {
                 "id": "4afb4868-ee4d-4505-97dd-23deb0c05f9b",
                 "resourcePath": "scripts\\scr_part_laser_init\\scr_part_laser_init.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a290ec18-c6e7-47ed-b0dd-eaec86bf7e9f",
+            "Value": {
+                "id": "7b8e66b0-707b-40d8-ab50-598f840ff57e",
+                "resourcePath": "objects\\obj_ship_creation_button_parent\\obj_ship_creation_button_parent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
